@@ -2,7 +2,7 @@
 ## Project: Feast & Fest (Mood-Based Daily Meal & Experience Planner)
 
 ### 1. Introduction: The "Non-Formal" Pitch
-Imagine waking up, feeling a bit gloomy, and wanting a day that just cheers you up without you having to plan it. **MoodBites** does exactly that. You tell the app how you feel, and it curates a complete, timeline-based itinerary for your day. It schedules your breakfast, lunch, snacks, and dinner using the **Swiggy Food API**, and throws in a fun evening activity (like a movie or concert) using the **Swiggy Dineout API**. 
+Imagine waking up, feeling a bit gloomy, and wanting a day that just cheers you up without you having to plan it. **Feast & Fest** does exactly that. You tell the app how you feel, and it curates a complete, timeline-based itinerary for your day. It schedules your breakfast, lunch, snacks, and dinner using the **Swiggy Food API**, and throws in a fun evening activity (like a movie or concert) using the **Swiggy Dineout API**. 
 
 The best part? You review the plan, make tweaks, pay *once* for the food upfront, and the app automatically places the orders at the exact right time throughout the day. It's like having a personal assistant for your cravings and entertainment!
 
